@@ -2,7 +2,7 @@
 
 ## 概要
 
-PythonのSeleniumを用いて、ディズニー公式ホテル予約サイトから空室情報を取得・遷移するスクリプトです。
+PythonのSeleniumを用いて、ディズニー公式ホテル予約サイトから空室情報を取得・遷移するスクリプトです。chromedriverのインストールが必要
 
 ## ファイル構成
 
@@ -16,3 +16,4 @@ PythonのSeleniumを用いて、ディズニー公式ホテル予約サイトか
 
 - Python
 - Selenium
+- chromedriver
